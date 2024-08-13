@@ -1,0 +1,3 @@
+Estudiante guardado: Estudiante(id=8, nombre=Test, apellido=Test, email=test@mal.com)
+Estudiante actualizado: Estudiante(id=8, nombre=TestCambio, apellido=Test, email=test@mal.com)
+Estudiante eliminado con ID: 8
