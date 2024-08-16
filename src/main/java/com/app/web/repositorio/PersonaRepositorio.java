@@ -1,9 +1,9 @@
 package com.app.web.repositorio;
 
-import com.app.web.entidad.Estudiante;
+import com.app.web.entidad.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface EstudianteRepositorio extends JpaRepository<Estudiante, Long> {
+public interface PersonaRepositorio extends JpaRepository<Persona, Long> {
 }

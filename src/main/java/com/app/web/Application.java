@@ -1,7 +1,7 @@
 package com.app.web;
 
-import com.app.web.entidad.Estudiante;
-import com.app.web.repositorio.EstudianteRepositorio;
+import com.app.web.entidad.Persona;
+import com.app.web.repositorio.PersonaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -15,7 +15,7 @@ public class Application implements CommandLineRunner {
 	}
 
 	@Autowired
-	private EstudianteRepositorio estudianteRepositorio;
+	private PersonaRepositorio personaRepositorio;
 
 	@Override
 	public void run(String... args) throws Exception {

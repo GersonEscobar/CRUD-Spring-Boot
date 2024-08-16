@@ -1,3 +1,6 @@
-Estudiante guardado: Estudiante(id=8, nombre=Test, apellido=Test, email=test@mal.com)
-Estudiante actualizado: Estudiante(id=8, nombre=TestCambio, apellido=Test, email=test@mal.com)
-Estudiante eliminado con ID: 8
+Estudiante guardado: Persona(id=1, nombre=gerson, apellido=escobar, email=gescobara3@miumg.edu.gt)
+Estudiante guardado: Persona(id=2, nombre=carlos, apellido=lopez, email=carloslopez@mail.com)
+Estudiante guardado: Persona(id=3, nombre=juan, apellido=jose, email=jose@gmail.com)
+Estudiante guardado: Persona(id=4, nombre=hector, apellido=paz, email=hector@mail.com)
+Estudiante eliminado con ID: 2
+Estudiante actualizado: Persona(id=1, nombre=Mauricio, apellido=Aguilar, email=aguilar@miumg.edu.gt)
